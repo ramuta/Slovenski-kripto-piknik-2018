@@ -1,5 +1,7 @@
 Slovenski kripto piknik 2018
 
+![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/lepsi.jpg?raw=true?raw=true "Title")
+
 Event: https://www.facebook.com/events/1613051382126945/
 
 Lokacija: https://pikniki.net/
@@ -40,3 +42,7 @@ Aktivnosti:
 - kanu
 - pikado 
 - ročni nogomet
+
+![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/piknik_fb_big.jpg?raw=true?raw=true?raw=true "Title")
+
+![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/lepsi.jpg?raw=true?raw=true "Title")
