@@ -1,4 +1,4 @@
-Slovenski kripto piknik 2018
+# Slovenski kripto piknik 2018
 
 ![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/lepsi.jpg?raw=true?raw=true "Title")
 
