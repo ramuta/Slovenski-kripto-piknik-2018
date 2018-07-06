@@ -11,7 +11,7 @@ Vstopnica "Slovenski kripto piknik 2018" Mesni meni paypal
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXR6PK589WMHQ
 
-Vegaterijanski meni paypal 15€
+Vegatarijanski meni paypal 15€
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R8BA354SXB2C8
 
