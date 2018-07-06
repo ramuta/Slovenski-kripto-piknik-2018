@@ -45,4 +45,4 @@ Aktivnosti:
 
 ![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/piknik_fb_big.jpg?raw=true?raw=true?raw=true "Title")
 
-![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/lepsi.jpg?raw=true?raw=true "Title")
+
