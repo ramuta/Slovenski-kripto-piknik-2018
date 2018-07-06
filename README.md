@@ -7,6 +7,9 @@ Lokacija: https://pikniki.net/
 Navigacija: https://goo.gl/maps/ghbm3SE3XJD2
 
 
+
+Vstopnica 15€ /osebo.
+
 Vstopnica "Slovenski kripto piknik 2018" Mesni meni paypal 
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXR6PK589WMHQ
@@ -22,6 +25,8 @@ https://goo.gl/KwoBdG
 Coinpayments "Slovenski kripto piknik 2018 - vegetarijanski meni"
 
 https://goo.gl/UAgrBV
+
+Bančno nakazilo Bitcoin društva Slovenij : SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d=
 
 Aktivnosti:
 
