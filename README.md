@@ -20,7 +20,7 @@ Vstopnica 15€ /osebo.
 
 [Coinpayments Slovenski kripto piknik 2018 - vegetarijanski meni](https://goo.gl/UAgrBV)
 
-Bančno nakazilo Bitcoin društva Slovenij : SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d=
+Bančno nakazilo na tekoči račun Bitcoin društva Slovenije : SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d (namen CryptoPiknik) 
 
 Aktivnosti:
 
