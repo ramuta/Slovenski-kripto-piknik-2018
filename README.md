@@ -2,31 +2,23 @@
 
 ![Alt text](https://github.com/bitcoin-si/Slovenski-kripto-piknik-2018/blob/master/lepsi.jpg?raw=true?raw=true "Title")
 
-Event: https://www.facebook.com/events/1613051382126945/
 
-Lokacija: https://pikniki.net/
+[Event na Facebooku ](https://www.facebook.com/events/1613051382126945/)
 
-Navigacija: https://goo.gl/maps/ghbm3SE3XJD2
+[Lokacija](https://pikniki.net/)
 
+[Navigacija](https://goo.gl/maps/ghbm3SE3XJD2)
 
 
 Vstopnica 15€ /osebo.
 
-Vstopnica "Slovenski kripto piknik 2018" Mesni meni paypal 
+[Vstopnica Slovenski kripto piknik 2018 Mesni meni paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXR6PK589WMHQ)
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXR6PK589WMHQ
+[Vegatarijanski meni Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R8BA354SXB2C8)
 
-Vegatarijanski meni paypal 15€
+[Coinpayments Slovenski kripto piknik 2018 - mesni meni](https://goo.gl/KwoBdG)
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R8BA354SXB2C8
-
-Coinpayments "Slovenski kripto piknik 2018 - mesni meni"
-
-https://goo.gl/KwoBdG
-
-Coinpayments "Slovenski kripto piknik 2018 - vegetarijanski meni"
-
-https://goo.gl/UAgrBV
+[Coinpayments Slovenski kripto piknik 2018 - vegetarijanski meni](https://goo.gl/UAgrBV)
 
 Bančno nakazilo Bitcoin društva Slovenij : SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d=
 
